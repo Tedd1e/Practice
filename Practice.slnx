@@ -1,9 +1,9 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src/Practice.App/Practice.App.csproj" />
-    <Project Path="src/Practice.Core/Practice.Core.csproj" />
+    <Project Path="Week1.App.PythonTranslation/Week1.App.PythonTranslation.csproj" Id="726f35b1-441d-44ce-ba6d-9900fb261136" />
+    <Project Path="Week1/Week1.Core.csproj" Id="ded17b41-b44c-49cf-be84-be04483205cc" />
   </Folder>
   <Folder Name="/tests/">
-    <Project Path="tests/Practice.Tests/Practice.Tests.csproj" />
+    <Project Path="Exercise1_Test/Week1_Exercise_Test.csproj" Id="827a3414-bd28-4691-9ab5-de5acc2e6f15" />
   </Folder>
 </Solution>
