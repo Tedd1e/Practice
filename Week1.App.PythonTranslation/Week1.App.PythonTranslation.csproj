@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Week1\Week1.Core.csproj" />
+  </ItemGroup>
+
 </Project>
